@@ -1,5 +1,5 @@
 # lab1-icornish97
-tips to working with git and github
+Tips to working with git and github
 Ian Cornish 
 I tell people that my Field of Study is Management Information Systems.
 The main activities that I partake in during work/studying include coding, preforming research, and reading course material. 
